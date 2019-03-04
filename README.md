@@ -9,3 +9,8 @@ int main(){
 int test(){
   print('this test');
 }
+
+
+int test1(){
+	
+}
